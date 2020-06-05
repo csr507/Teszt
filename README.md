@@ -1,0 +1,2 @@
+# Teszt
+kódolás tanulás
